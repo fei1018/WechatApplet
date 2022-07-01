@@ -1,0 +1,68 @@
+/* pages/tema/tema.wxss */
+page{
+  height: 100%;
+  background-color:#f1f8fb;
+}
+.content{
+  width: 100%;
+  background-color: #fff;
+  margin-top: 60rpx;
+  padding-top: 30rpx;
+  padding-bottom: 30rpx;
+  margin-bottom: 200rpx;
+  padding-left: 30rpx;
+}
+.head{
+  display: flex;
+  align-items: center;
+  margin-bottom: 40rpx;
+}
+.head image{
+  width: 90rpx;
+  height: 90rpx;
+}
+.head input{
+  background-color: #fafafa;
+  width: 500rpx;
+  height: 60rpx;
+  border-radius: 60rpx;
+  margin-left: 25rpx;
+  padding: 0.8em 1em;
+}
+.describe{
+  display: flex;
+  flex-direction: column;
+  margin-left: 25rpx; 
+  color: #5094F3;
+}
+.time{
+  font-size: small;
+}
+.join{
+  font-size: 28rpx;
+  font-weight: 600;
+}
+.see{
+  color: #c8c8c8;
+  font-size: small;
+  text-align: center;
+}
+.see image{
+  width: 30rpx;
+  height: 30rpx;
+  margin-left: 10rpx;
+}
+.invitation{
+  width: 700rpx;
+  border-radius: 10rpx;
+  background-color: #5094F3;
+  margin-top: 50rpx;
+  margin-bottom: 30rpx;
+  margin-left: 30rpx;
+}
+.invitation button{
+  background:#5094f3;
+  color: #fff;
+  font-size: 30rpx;
+  font-weight: normal;
+}

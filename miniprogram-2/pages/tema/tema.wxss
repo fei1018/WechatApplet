@@ -1,0 +1,31 @@
+/* pages/tema/tema.wxss */
+page{
+  height: 100%;
+  background-color:#f1f8fb;
+}
+.invitation{
+  width: 700rpx;
+  border-radius: 10rpx;
+  background-color: #5094F3;
+  margin-top: 50rpx;
+  margin-bottom: 30rpx;
+  margin-left: 30rpx;
+}
+.invitation button{
+  background:#5094f3;
+  color: #fff;
+  font-size: 30rpx;
+  font-weight: normal;
+}
+.get-into{
+  width: 700rpx;
+  border-radius: 10rpx;
+  background-color:#fff;
+  margin: 0 auto;
+}
+.get-into button{
+  background-color: #fff;
+  color: #5094F3;
+  font-size: 30rpx;
+  font-weight: normal;
+}

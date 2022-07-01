@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "ass":"../../components/ass/ass"
+  },
+  "navigationBarTitleText": "分享学习局"
+}

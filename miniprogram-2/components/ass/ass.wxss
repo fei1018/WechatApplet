@@ -1,0 +1,60 @@
+/* components/ass.wxss */
+.top{
+  width: 700rpx;
+  height: 435rpx;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 20rpx;
+}
+.title{
+  font-size: 35rpx;
+  color: #161616;
+  font-weight: bold;
+  margin-top: 20rpx;
+}
+.middle{
+  display: flex;
+}
+.left-box{
+  display: flex;
+  flex-direction: column;
+  width: 350rpx;
+  margin-top: 60rpx;
+  border-right: 1px solid #e8e8e8;
+  color: #ff9a2e;
+  align-items: center;
+  font-size: 43rpx;
+  font-weight: bold;
+}
+.join{
+  font-size: 22rpx;
+  margin-top: 17rpx;
+  margin-bottom: 25rpx;
+}
+.icon image{
+  width: 60rpx;
+  height: 60rpx;
+  margin: 5rpx;
+}
+.right-box{
+  display: flex;
+  flex-direction: column;
+  width: 350rpx;
+  margin-top: 60rpx;
+  align-items: center;
+}
+.start{
+  font-size: 27rpx;
+  margin-bottom: 25rpx;
+}
+.time{
+  font-size: 40rpx;
+  font-weight: bold;
+  margin-bottom: 25rpx;
+}
+.data{
+  font-size: 27rpx;
+}

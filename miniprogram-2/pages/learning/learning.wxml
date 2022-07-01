@@ -1,0 +1,28 @@
+<!--pages/learning/learning.wxml-->
+<page>
+  <view class="middle">
+    <ass title="成功" num="4"></ass>
+    <view class="content">
+    <view class="head">
+      <image src="../../image/头像 男孩 (1).png"></image>
+      <input class="inp1" type="text"placeholder-style="color:#c1c1c1" placeholder="点击这里输入留言" />
+    </view>
+    <view class="head">
+      <image src="../../image/头像 男孩.png"></image>
+      <view class="describe">
+        <text class="time">02-22 11：30</text>
+        <text class="join">鸡汁大蘑菇 加入了学习局</text>
+      </view>
+    </view>
+    <view class="see">
+    <text>点击查看更多记录</text>
+    <image src="../../image/箭头.png"></image>
+    </view>
+  </view>
+    <view class="invitation">
+      <button>进入学习房</button>
+    </view>
+
+
+  </view>
+</page>

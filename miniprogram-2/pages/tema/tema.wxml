@@ -1,0 +1,13 @@
+<!--pages/tema/tema.wxml-->
+<page>
+  <view class="middle">
+    <ass title="中" num="1"></ass>
+      <view class="invitation">
+      <button>邀请道友加入学习局</button>
+      </view>
+      
+    <view class="get-into">
+    <button bindtap="bindViewTap">进入学习局</button>
+    </view>
+  </view>
+</page>

@@ -1,0 +1,21 @@
+<!--components/ass.wxml-->
+<view class="top">
+  <view class="title">鸡汁大蘑菇的学习局</view>
+  <view class="middle">
+    <view class="left-box">
+      <text>组局{{title}}</text>
+      <text class="join">{{num}}人已加入</text>
+      <view class="icon">
+        <image src="../../image/头像 男孩 (1).png"></image>
+        <image src="../../image/沙发.png"></image>
+        <image src="../../image/沙发.png"></image>
+        <image src="../../image/沙发.png"></image>
+      </view>
+    </view>
+    <view class="right-box">
+      <text class="start">开始时间</text>
+      <text class="time">12:00</text>
+      <text class="data">02月26日 明天</text>
+    </view>
+  </view>
+</view>

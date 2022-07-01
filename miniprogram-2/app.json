@@ -1,0 +1,18 @@
+{
+  "pages": [
+    
+    "pages/tema/tema",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/learning/learning"
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
