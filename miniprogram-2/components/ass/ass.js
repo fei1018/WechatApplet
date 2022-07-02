@@ -11,6 +11,10 @@ Component({
         num: {
             type: Number,
             value: ""
+        },
+        age: {
+            type: Number,
+            value: ""
         }
     },
 
