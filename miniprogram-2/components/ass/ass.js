@@ -12,10 +12,6 @@ Component({
             type: Number,
             value: ""
         },
-        age: {
-            type: Number,
-            value: ""
-        }
     },
 
     /**
